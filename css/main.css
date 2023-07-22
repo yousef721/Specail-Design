@@ -52,7 +52,7 @@ a {
     min-height: 100vh;
     background-color: white;
     border: 1px solid #eee;
-    z-index: 100;
+    z-index: 100000;
     transition: 0.4s;
     
 }
