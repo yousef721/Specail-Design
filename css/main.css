@@ -238,7 +238,6 @@ a {
     .landing-page .header-area  {
         flex-direction: row;
         justify-content: space-between;
-        z-index: 10000;
     }
 }
 .landing-page .header-area .logo {
